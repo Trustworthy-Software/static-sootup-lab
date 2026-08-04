@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Analyze",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "sootup-apk-analyzer",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "maven-compile"
+        }
+    ]
+}
