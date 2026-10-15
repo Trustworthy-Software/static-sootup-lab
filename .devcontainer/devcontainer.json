@@ -1,7 +1,7 @@
 {
     "name": "SootUp APK Analyzer",
     "build": {
-        "dockerfile": "Dockerfile"
+        "dockerfile": "dockerfile"
     },
     "customizations": {
         "vscode": {
